@@ -1,24 +1,5 @@
-# README
+# Jayesh Borkar
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Raw SQL ###
+https://github.com/Shadbox-Infosystem/PresentationProject/assets/89084078/fc0b6049-04a9-4d03-9524-7ea840da3f35
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
