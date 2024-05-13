@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Adnan Neyazi     
 
-Things you may want to cover:
+### GraphQL   
 
-* Ruby version
 
-* System dependencies
+https://github.com/Shadbox-Infosystem/PresentationProject/assets/136309586/e0a19080-080c-4020-8f8f-930ce9a85bb9
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
